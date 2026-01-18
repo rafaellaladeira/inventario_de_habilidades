@@ -3,7 +3,7 @@
 -- Etapa 1:
 
 - O que as pessoas costumam elogiar em você?
-As pessoas costumam elogiar minha tranquilidade e minha capacidade de manter a calma mesmo em situações difíceis. Também dizem que sou disciplinada, especialmente com rotina de treinos e organização da vida. Muitos comentam que sou uma boa ouvinte e que transmito uma sensação de segurança.
+<p> As pessoas costumam elogiar minha tranquilidade e minha capacidade de manter a calma mesmo em situações difíceis. Também dizem que sou disciplinada, especialmente com rotina de treinos e organização da vida. Muitos comentam que sou uma boa ouvinte e que transmito uma sensação de segurança. </p>
 
 - Em que tipo de tarefa você se sente confiante?
 Me sinto muito confiante em tarefas que exigem constância e foco, como manter uma rotina saudável, planejar viagens e organizar minha agenda. Também me sinto segura quando preciso tomar decisões sozinha, sem depender da opinião dos outros.
@@ -34,3 +34,84 @@ Lifestyle minimalista e produtividade leve
 Mercado pet, especialmente cuidados, rotina e qualidade de vida para cachorros
 
 -- Etapa 3: 
+
+Lifestyle minimalista e produtividade leve
+1. Definir claramente o serviço
+
+O que exatamente você oferece? (ex: mentoria 1:1, acompanhamento mensal, consultoria de rotina)
+Para quem é? (ex: mulheres cansadas da rotina acelerada)
+Qual problema resolve? (ex: falta de foco, excesso de tarefas, vida desorganizada)
+
+2. Criar uma descrição simples da oferta
+Texto curto explicando o serviço
+Benefícios práticos (mais clareza, leveza, constância)
+Diferencial: produtividade sem pressão
+
+3. Definir o formato de atendimento
+Online (chamada de vídeo, WhatsApp, e-mail)
+Duração das sessões
+Frequência (semanal, quinzenal, mensal)
+
+4. Estruturar o método (mesmo que simples)
+Diagnóstico inicial
+Organização de rotina e prioridades
+Ajuste de hábitos
+Acompanhamento leve
+
+5. Definir preço inicial
+Valor por sessão ou pacote
+Política de pagamento
+Decidir se terá preço promocional de início
+
+6. Criar uma bio profissional nas plataformas
+Quem você é
+O que você ajuda a fazer
+Para quem
+Chamada para ação (ex: “Agende uma conversa”)
+
+7. Escolher as plataformas principais
+Instagram (conteúdo + contato)
+WhatsApp Business (atendimento)
+LinkedIn (se quiser público mais profissional)
+
+8. Criar conteúdo base (mínimo viável)
+3 posts sobre rotina leve
+3 posts sobre minimalismo prático
+3 posts sobre produtividade sem culpa
+1 post de apresentação
+
+9. Criar uma forma simples de contato
+Link na bio
+WhatsApp
+Formulário simples (opcional)
+
+10. Definir sua comunicação
+Tom: calmo, claro, sem pressão
+Linguagem acessível
+Prometer processo, não milagre
+
+11. Criar um roteiro de primeira conversa
+Entender rotina da pessoa
+Identificar dificuldades
+Explicar como você pode ajudar
+Apresentar o serviço
+
+12. Estabelecer limites e regras
+Horários de atendimento
+O que está ou não incluso
+Prazo de resposta
+
+13. Validar com as primeiras pessoas
+Oferecer para conhecidos ou seguidores
+Coletar feedback
+Ajustar o serviço
+
+14. Formalizar o básico (quando possível)
+MEI (se decidir seguir)
+Forma de pagamento
+Registro simples de atendimentos
+
+15. Começar, mesmo imperfeito
+Publicar
+Oferecer
+Ajustar no caminho
